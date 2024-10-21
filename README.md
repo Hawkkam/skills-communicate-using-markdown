@@ -1,4 +1,4 @@
-<h1>
+<h1> This is the header I chose
 
 <!--
   <<< Author notes: Course header >>>
